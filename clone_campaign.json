@@ -1,0 +1,90 @@
+[
+  {
+    "campaignName": "Nike Woosh Collectibles",
+    "campaignType": "Branding",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  },
+  {
+    "campaignName": "Adidas Collectibles",
+    "campaignType": "Engagement",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  },
+  {
+    "campaignName": "Puma Collectibles",
+    "campaignType": "Lead-gen",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  },
+  {
+    "campaignName": "Nike Woosh Collectibles",
+    "campaignType": "Sales",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  },
+  {
+    "campaignName": "Nike Woosh Collectibles",
+    "campaignType": "Certificates",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  },
+  {
+    "campaignName": "Nike Woosh Collectibles",
+    "campaignType": "Cause Marketing",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  },
+  {
+    "campaignName": "Nike Woosh Collectibles",
+    "campaignType": "Loyalty Program",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  },
+  {
+    "campaignName": "Nike Woosh Collectibles",
+    "campaignType": "Web 3.0 Experiments",
+    "campaignDescription": "fsdfds",
+    "nftVolume": "Small (0-100)",
+    "mintAgent": "Brand",
+    "blockchain": "Polygon",
+    "noOfNfts": "100",
+    "dnMethod": "URL Drop",
+    "fnMethod": "NFT Access Online"
+  }
+]

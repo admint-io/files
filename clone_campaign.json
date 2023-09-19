@@ -6,7 +6,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   },
@@ -17,7 +17,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   },
@@ -28,7 +28,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   },
@@ -39,7 +39,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   },
@@ -50,7 +50,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   },
@@ -61,7 +61,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   },
@@ -72,7 +72,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   },
@@ -83,7 +83,7 @@
     "nftVolume": "Small (0-100)",
     "mintAgent": "Brand",
     "blockchain": "Polygon",
-    "noOfNfts": "100",
+    "numOfNft": "100",
     "dnMethod": "URL Drop",
     "fnMethod": "NFT Access Online"
   }

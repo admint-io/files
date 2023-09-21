@@ -11,6 +11,17 @@
             "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",
             "focusMetrics": "Buzz around distribution & Unique NFT utility"
         },
+         {
+            "businessObj": "Branding",
+            "nftVolume": "Medium (100-1000)",
+            "mintAgent": "User mints",
+            "impact": "High",
+            "setupTime": "Low",
+            "setupCost": "High",
+            "entryBarrier": "Medium",
+            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",
+            "focusMetrics": "Buzz around distribution & Unique NFT utility"
+        },
         {
             "businessObj": "Branding",
             "nftVolume": "Small (0-100)",

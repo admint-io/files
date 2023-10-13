@@ -92,9 +92,9 @@
             "businessObj": "Branding",
             "nftVolume": "Medium (100-1000)",
             "mintAgent": "undefined",
-            "impact": "Low",
-            "setupTime": "High",
-            "setupCost": "Low",
+            "impact": "High",
+            "setupTime": "Low",
+            "setupCost": "Medium",
             "entryBarrier": "High",
             "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",
             "focusMetrics": "Buzz around distribution & Unique NFT utility"
@@ -104,8 +104,8 @@
             "nftVolume": "Small (0-100)",
             "mintAgent": "undefined",
             "impact": "Low",
-            "setupTime": "High",
-            "setupCost": "Low",
+            "setupTime": "Medium",
+            "setupCost": "High",
             "entryBarrier": "High",
             "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",
             "focusMetrics": "Buzz around distribution & Unique NFT utility"

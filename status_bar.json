@@ -57,7 +57,7 @@
         },
         {
             "businessObj": "Engagement",
-            "nftVolume": "Large (1000+)",
+            "nftVolume": "Small (0-100)",
             "mintAgent": "undefined",
             "impact": "Low",
             "setupTime": "High",
@@ -68,7 +68,7 @@
         },
         {
             "businessObj": "Engagement",
-            "nftVolume": "Large (1000+)",
+            "nftVolume": "Medium (100-1000)",
             "mintAgent": "undefined",
             "impact": "Low",
             "setupTime": "High",
@@ -90,7 +90,7 @@
         },
         {
             "businessObj": "Branding",
-            "nftVolume": "Large (1000+)",
+            "nftVolume": "Medium (100-1000)",
             "mintAgent": "undefined",
             "impact": "Low",
             "setupTime": "High",
@@ -101,7 +101,7 @@
         },
         {
             "businessObj": "Branding",
-            "nftVolume": "Large (1000+)",
+            "nftVolume": "Small (0-100)",
             "mintAgent": "undefined",
             "impact": "Low",
             "setupTime": "High",

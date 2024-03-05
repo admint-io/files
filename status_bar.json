@@ -3,7 +3,7 @@
         {
             "businessObj": "Branding",
             "nftVolume": "Medium (100-1000)",
-            "mintAgent": "Brand mints",
+            "mintAgent": "Brand",
             "impact": "Low",
             "setupTime": "Medium",
             "setupCost": "Low",
@@ -14,7 +14,7 @@
          {
             "businessObj": "Branding",
             "nftVolume": "Medium (100-1000)",
-            "mintAgent": "User mints",
+            "mintAgent": "User",
             "impact": "High",
             "setupTime": "Low",
             "setupCost": "High",
@@ -25,7 +25,7 @@
         {
             "businessObj": "Branding",
             "nftVolume": "Small (0-100)",
-            "mintAgent": "User mints",
+            "mintAgent": "User",
             "impact": "Low",
             "setupTime": "Low",
             "setupCost": "High",

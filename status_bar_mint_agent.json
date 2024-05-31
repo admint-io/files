@@ -1,6 +1,7 @@
 {
     "resultArray": [
         {
+            "businessObjective": "Branding",
             "mintAgent": "Brand",
             "setupTime": "Low",
             "setupCost": "Low",
@@ -8,9 +9,26 @@
             "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",           
         },
         {
+            "businessObjective": "Cause Marketing",
             "mintAgent": "User",
             "setupTime": "High",
             "setupCost": "High",
+            "entryBarrier": "Low",
+            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",            
+        },
+        {
+            "businessObjective": "Certificates",
+            "mintAgent": "User",
+            "setupTime": "Low",
+            "setupCost": "High",
+            "entryBarrier": "Low",
+            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",            
+        },
+        {
+            "businessObjective": "Lead-gen",
+            "mintAgent": "User",
+            "setupTime": "High",
+            "setupCost": "Low",
             "entryBarrier": "Low",
             "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",            
         }   

@@ -1,25 +1,28 @@
 {
     "resultArray": [
         {
+            "businessObjective": "Branding",
             "nftVolume": "Medium (100-1000)",            
-            "setupTime": "Medium",
-            "setupCost": "Low",
-            "impact": "Low",
-            "focusMetrics": "Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility."
+            "setupTime": "1",
+            "setupCost": "2",
+            "impact": "3",
+            "focusMetrics": "4"
         },
         {
+            "businessObjective": "Certificates",
             "nftVolume": "Small (0-100)",            
-            "setupTime": "Relatively Low. Time taken for minting will be lesser.",
-            "setupCost": "It is recommended to keep costs higher in case of smaller volumes to drive scarcity.",
-            "impact": "Depends on the marketing around the campaign.",
-            "focusMetrics": "Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility."
+            "setupTime": "5",
+            "setupCost": "6",
+            "impact": "7",
+            "focusMetrics": "8"
         },
         {
+            "businessObjective": "Lead-gen",
             "nftVolume": "Large (1000+)",
-            "setupTime": "High",
-            "setupCost": "Low",
-            "impact": "Low",
-            "focusMetrics": "Buzz around distribution & Unique NFT utility."
+            "setupTime": "9",
+            "setupCost": "10",
+            "impact": "11",
+            "focusMetrics": "12"
         }      
     ]  
   }

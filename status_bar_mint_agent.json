@@ -3,34 +3,34 @@
         {
             "businessObjective": "Branding",
             "mintAgent": "Brand",
-            "setupTime": "Low",
-            "setupCost": "Low",
-            "entryBarrier": "Medium",
-            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns"
+            "setupTime": "1",
+            "setupCost": "2",
+            "entryBarrier": "3",
+            "bestSuitedFor": "4"
         },
         {
             "businessObjective": "Cause Marketing",
-            "mintAgent": "User",
-            "setupTime": "High",
-            "setupCost": "High",
-            "entryBarrier": "Low",
-            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns"
+            "mintAgent": "Brand",
+            "setupTime": "5",
+            "setupCost": "6",
+            "entryBarrier": "7",
+            "bestSuitedFor": "8"
         },
         {
             "businessObjective": "Certificates",
-            "mintAgent": "User",
-            "setupTime": "Low",
-            "setupCost": "High",
-            "entryBarrier": "Low",
-            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns"
+            "mintAgent": "Brand",
+            "setupTime": "9",
+            "setupCost": "10",
+            "entryBarrier": "11",
+            "bestSuitedFor": "12"
         },
         {
             "businessObjective": "Lead-gen",
-            "mintAgent": "User",
-            "setupTime": "High",
-            "setupCost": "Low",
-            "entryBarrier": "Low",
-            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns"
+            "mintAgent": "Brand",
+            "setupTime": "13",
+            "setupCost": "14",
+            "entryBarrier": "15",
+            "bestSuitedFor": "16"
         }
     ]
 }

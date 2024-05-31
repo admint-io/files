@@ -1,30 +1,24 @@
 {
     "resultArray": [
         {
-            "nftVolume": "Medium (100-1000)",
-            "impact": "Low",
+            "nftVolume": "Medium (100-1000)",            
             "setupTime": "Medium",
             "setupCost": "Low",
-            "entryBarrier": "Medium",
-            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",
+            "impact": "Low",
             "focusMetrics": "Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility."
         },
         {
-            "nftVolume": "Small (0-100)",
-            "impact": "Low",
+            "nftVolume": "Small (0-100)",            
             "setupTime": "Relatively Low. Time taken for minting will be lesser.",
             "setupCost": "It is recommended to keep costs higher in case of smaller volumes to drive scarcity.",
-            "entryBarrier": "Depends on the cost. Low if offered for free.",
-            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",
+            "impact": "Depends on the marketing around the campaign.",
             "focusMetrics": "Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility. Buzz around distribution & Unique NFT utility."
         },
         {
             "nftVolume": "Large (1000+)",
-            "impact": "Low",
             "setupTime": "High",
             "setupCost": "Low",
-            "entryBarrier": "High",
-            "bestSuitedFor": "Buzz Generation Campaigns & Collectible Campaigns",
+            "impact": "Low",
             "focusMetrics": "Buzz around distribution & Unique NFT utility."
         }      
     ]  

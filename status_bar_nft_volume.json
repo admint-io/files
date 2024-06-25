@@ -1,12 +1,28 @@
 {
     "resultArray": [
+         {
+            "businessObjective": "Branding",
+            "nftVolume": "Small (0-100)",            
+            "setupTime": "Since the assets are lower, there will be saving on set up time.",
+            "setupCost": "Minting & transaction fees will be lower due to lower volumes.",
+            "impact": "Ideal to create a sense of scarcity and drive engagement.",
+            "focusMetrics": "Buzz around distributon & Utility offered to token holders during fulfilment."
+        },
         {
             "businessObjective": "Branding",
             "nftVolume": "Medium (100-1000)",            
-            "setupTime": "1",
-            "setupCost": "2",
-            "impact": "3",
-            "focusMetrics": "4"
+            "setupTime": "If unique creatives are lower set up time can be low.",
+            "setupCost": "Minting & transaction fees will be slightly higher due to higher volumes.",
+            "impact": "Careful planning & execution is crucial to maximizing the value of exclusive tokens.",
+            "focusMetrics": "Scarcity should not be diminished by volume involved."
+        },
+         {
+            "businessObjective": "Branding",
+            "nftVolume": "Large (1000+)",            
+            "setupTime": "Set up time will be high. Will go significantly higher if multiple creatives involved.",
+            "setupCost": "Minting & transaction fees will high due to high volumes.",
+            "impact": "Users can be onboarded & engaged at scale, if executed well.",
+            "focusMetrics": "Balancing value and operational challenges by higher token volumes will be key."
         },
         {
             "businessObjective": "Certificates",
